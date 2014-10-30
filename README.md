@@ -1,0 +1,4 @@
+Plugins
+=======
+
+Easy dependency injection
